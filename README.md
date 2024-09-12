@@ -11,7 +11,7 @@
 Just Another Text Editor (JATE) is a single-page browser based progressive web application for text editing. JATE is designed to run both online and offline. JATE makes use of PWA technologies such as webpack and indexedDB.
 
 ## Installation
-If using the online version of JATE, not installation is necessary. If using the offline version, click the install button on the homepage as seen here (insert screenshot)
+If using the online version of JATE, no installation is necessary. If using the offline version, click the install button on the homepage.
 
 ## Usage
 Simply type into the editor and your progress will be automatically saved.
